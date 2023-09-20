@@ -6,7 +6,8 @@
 
 header {
     background-color: rgb(35, 36, 36);
-    color:lightcoral
+    color: whitesmoke;
+    margin-bottom: 20px;
 }
 
 h1:hover{
@@ -33,7 +34,8 @@ li {
 
 a {
     text-decoration: none;
-    color: whitesmoke;
+    color:purple;
+    cursor: pointer;
 }
 
 a:hover{
