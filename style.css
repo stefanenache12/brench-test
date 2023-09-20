@@ -9,6 +9,10 @@ header {
     color: whitesmoke;
 }
 
+h1:hover{
+    color: greenyellow;
+}
+
 .nav {
     width: 80%;
     margin: auto;
@@ -34,7 +38,7 @@ a {
 }
 
 a:hover{
-color: lightblue;
+color: yellow;
 }
 
 .product{
