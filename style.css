@@ -43,3 +43,8 @@ a {
 .col-3{
     width: calc(25% - 20px);
 }
+
+footer {
+    background-color: rgb(35, 36, 36);
+    padding: 30px;
+} 
