@@ -11,7 +11,7 @@ header {
 }
 
 .nav {
-    width: 80%;
+    width: 60%;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -21,7 +21,6 @@ header {
 }
 
 ul {
-    list-style: none;
     display: flex;
 }
 
