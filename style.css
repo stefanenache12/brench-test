@@ -33,6 +33,10 @@ a {
     color: whitesmoke;
 }
 
+a:hover{
+color: lightblue;
+}
+
 .product{
     background-color: bisque;
     height: 200px;
