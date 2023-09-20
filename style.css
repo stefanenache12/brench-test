@@ -9,6 +9,10 @@ header {
     color:lightcoral
 }
 
+h1:hover{
+    color: greenyellow;
+}
+
 .nav {
     width: 60%;
     margin: auto;
@@ -30,6 +34,10 @@ li {
 a {
     text-decoration: none;
     color: whitesmoke;
+}
+
+a:hover{
+color: yellow;
 }
 
 .product{
